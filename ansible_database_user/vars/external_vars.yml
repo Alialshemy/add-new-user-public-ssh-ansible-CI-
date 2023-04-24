@@ -1,0 +1,7 @@
+#absent or present
+---
+users:
+    - name: ali
+      state: present
+
+
